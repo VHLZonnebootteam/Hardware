@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name foil_cap_board-rescue)(type Legacy)(uri ${KIPRJMOD}/foil_cap_board-rescue.lib)(options "")(descr ""))
+)
